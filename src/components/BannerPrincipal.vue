@@ -15,7 +15,20 @@
             i.fas.fa-angle-right
 
       .d-none.d-lg-block.col-lg-5.px-0.banner-principal__img
-        img(:src="globalData.imagenBannerPrincipal")
+        .bp-img
+          img(src="@/assets/curso/inicio-bg.png")
+          .mas
+          .por.por--a
+          .por.por--b
+          .olas
+            img(src="@/assets/curso/lineas.gif")
+          .circulo
+            img(src="@/assets/curso/circulo.gif")
+          .cuadro.cuadro--a
+            img(src="@/assets/curso/cuadro.gif")
+          .cuadro.cuadro--b
+            img(src="@/assets/curso/cuadro.gif")
+
 </template>
 
 <script>

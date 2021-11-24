@@ -1,11 +1,10 @@
 export default {
   global: {
-    componenteFormativo:
-      'Componente Formativo con un nombre extremadamente largo y extenso',
+    componenteFormativo: 'Liquidación de la seguridad social.',
     descripcionCurso:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean convallis vestibulum quam bibendum varius.<br/><br/>Quisque pretium at nulla sit amet placerat. Vestibulum consequat suscipit accumsan. Proin pharetra congue enim et tempus. Sed sodales dui volutpat, placerat tellus accumsan, semper est. Phasellus nec lorem elementum, mattis quam eget, vestibulum nibh. Sed.',
-    imagenBannerPrincipal: '', // require('@/assets/curso/banner-princiapal.svg'),
-    fondoBannerPrincipal: '', // require('@/assets/curso/fondo-banner-principal.png'),
+      'Los contenidos propuestos en este componente de formación permiten identificar y conocer el índice base de cotización para la seguridad social, su medio de pago y su sistema de información. ',
+    // imagenBannerPrincipal: require('@/assets/curso/fondo.png'),
+    fondoBannerPrincipal: require('@/assets/curso/fondo.png'),
   },
   menuPrincipal: {
     menu: [
