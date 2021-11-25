@@ -181,21 +181,50 @@ h5
 table.sm
   min-width: 400px
 
+.tarjeta.color-blanco
+  background-color: $white
+
+
+.tarjeta-flip.color-blanco
+  .tarjeta-flip__contenido
+    background-color: $white
+
+
+.tarjeta-flip
+  .tarjeta-flip__contenido
+    filter: drop-shadow(0 0 0 rgba(0,0,0,0))
+    transition: filter 0.3s ease-in-out
+  &:hover 
+    .tarjeta-flip__contenido
+      filter: drop-shadow(0px 3px 10px rgba(0,0,0,0.3))
 
 
 
+.fondo-tarjetas-flip
+  position: absolute
+  width: 90%
+  top: 50%
+  left: 50%
+  transform: translate(-50%,-50%)
 
-
-
-
-
-
-
-
-
-
-
-
+.tarjeta-oh
+  overflow: hidden
+  
+.tarjetas-especiales
+  position: relative
+  &> *
+    position: relative
+  &:before
+    content: ''
+    display: block
+    position: absolute
+    top: 10%
+    bottom: 10%
+    left: 0
+    right: 0
+    background-image: url(../assets/curso/fondo-tarjetas-flip.png)
+    background-size: 100% 100%
+    background-repeat: no-repeat
 
 
 
