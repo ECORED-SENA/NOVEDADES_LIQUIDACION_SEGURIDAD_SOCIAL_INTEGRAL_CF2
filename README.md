@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/COMUNICACION_EQUIPOS_TRABAJO_CF2/](https://ecored-sena.github.io/COMUNICACION_EQUIPOS_TRABAJO_CF2/)
+[https://ecored-sena.github.io/NOVEDADES_LIQUIDACION_SEGURIDAD_SOCIAL_INTEGRAL_CF2/](https://ecored-sena.github.io/NOVEDADES_LIQUIDACION_SEGURIDAD_SOCIAL_INTEGRAL_CF2/)
 
 #
 
