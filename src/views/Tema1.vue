@@ -10,7 +10,7 @@
         h1 Cotización
 
     .p-5.fondo-gris.mb-4
-      .row.justify-content-center
+      .row.justify-content-center(data-aos="zoom-in-up")
         .col-lg-7.mb-4.mb-lg-0
           .pe
             .ondas.d-none.d-lg-block
@@ -35,7 +35,7 @@
             figcaption Fuente: SENA, 2021. 
 
       .row.justify-content-center.mb-5
-        .col-6.col-lg-5.mb-4.mb-lg-0
+        .col-6.col-lg-5.mb-4.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/t1-03.png')
           
@@ -64,7 +64,7 @@
 
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-6.col-lg-5.mb-4.mb-lg-0
+        .col-6.col-lg-5.mb-4.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/t1-05.png')
           
@@ -79,7 +79,7 @@
             p.mb-0 Se considera el monto del salario o ingreso de los trabajadores, tanto dependientes como independientes, que permite determinar los aportes al sistema de seguridad social. Entre estos aportes, se encuentran los de salud, pensión, riesgos laborales y caja de compensación familiar, y deben realizarse con los siguientes porcentajes: 
           .col-lg
             .titulo-sexto.color-primario Porcentajes según aportes al Sistema de Seguridad Social
-            .row.justify-content-center.tarjetas-overflow
+            .row.justify-content-center.tarjetas-overflow(data-aos="flip-right")
               .col-10.col-sm-6.col-lg-4.mb-4.mb-lg-0
                 .tarjeta--boton.color-primario.px-4.py-3.shadow.h-100
                   .row.justify-content-center.mb-3
@@ -157,7 +157,7 @@
     .fondo-olas
       .pt-5.pe-4.pe-lg-5
         .row.align-items-center.mx-0.mb-5
-          .col-8.col-lg-4.mb-4.mb-lg-0.p-0
+          .col-8.col-lg-4.mb-4.mb-lg-0.ps-0
             figure
               img.pb-2(src='@/assets/curso/t1-11.png')
             
@@ -378,7 +378,7 @@
         .row.align-items-center.mb-5
           .col-lg-6.mb-4.mb-lg-0
 
-            .row.justify-content-center
+            .row.justify-content-center(data-aos="flip-right")
               .col-10.col-sm-6.col-lg-4.mb-4.mb-lg-0
                 .tarjeta--boton.color-secundario.px-3.py-4.h-100
                   .row.justify-content-center.mb-3

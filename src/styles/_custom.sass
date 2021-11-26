@@ -119,7 +119,7 @@ figure figcaption, table caption
   background-color: #E9E9F3
 .p-color-primario
   color: $color-primario
-.h5, h4, h5 
+.h5, h4, h5, h6
   &.color-primario
     color: $color-primario
 h5
@@ -225,6 +225,63 @@ table.sm
     background-image: url(../assets/curso/fondo-tarjetas-flip.png)
     background-size: 100% 100%
     background-repeat: no-repeat
+
+.invert-tarjeta
+  &:hover
+    .invert-img
+      filter: brightness(100)
+
+.slyder__btn
+  background-color: $color-acento-botones
+  color: $white
+  &:hover
+    background-color: darken($color-acento-botones, 15%)
+    color: $white
+
+.horizontal-scroll.row
+  align-items: stretch !important
+
+
+.slyder-f__btn
+  i
+    color: $color-secundario
+
+
+.fondo-secundario
+  background-color: $color-secundario
+
+.slyder-f--b
+  .slyder-f__btn
+    i
+      color: $white
+
+.color-secundario--claro
+  background-color: #E9E9F3
+  transition: background-color 0.3s ease
+  cursor: pointer
+  *
+    transition: color 0.3s ease
+  &:hover
+    background-color: $color-primario
+    *
+      color: $white
+
+.lh-md
+  line-height: 1.3em
+
+.tarjeta-onda-e
+  .invert-img
+    position: absolute
+    width: 20%
+
+
+
+
+
+
+
+
+
 
 
 
