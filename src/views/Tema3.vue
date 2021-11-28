@@ -416,8 +416,10 @@
 </template>
 
 <script>
+import SlyderF from '../components/SlyderF'
 export default {
   name: 'Tema3',
+  components: { SlyderF },
   data: () => ({
     // variables de vue
   }),
