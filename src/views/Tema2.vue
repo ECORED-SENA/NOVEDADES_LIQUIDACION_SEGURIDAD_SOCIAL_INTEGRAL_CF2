@@ -75,6 +75,7 @@
                 h3 Trabajadores Dependientes 
                 p.mb-0 En cuanto a los dependientes, el empleador será el encargado de realizar el pago de los aportes de los trabajadores ante la PILA, para esto el empleador deberá liquidar la seguridad social de acuerdo con la normatividad. En este caso, como lo se vio anteriormente, el IBC se aplicará al salario básico más los pagos mensuales adicionales que constituyan el salario. 
 
+        p.mb-5 A continuación, se estudiará cómo calcular nómina y liquidación del Sistema de Seguridad Social según los adicionales establecidos en la norma. Antes de entrar en más detalle, es importante conceptualizar algunos términos para tener más claridad sobre el tema; entre estos, se tienen:  
 
         TabsB.color-acento-contenido.mb-5
           .py-4.py-md-5(titulo="Nómina" :icono="require('@/assets/curso/t2-08.svg')")

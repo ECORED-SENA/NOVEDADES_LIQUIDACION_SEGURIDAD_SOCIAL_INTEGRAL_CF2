@@ -76,7 +76,9 @@
         .row.justify-content-center
           .col-lg-6.mb-4.mb-lg-0
             .h5.color-primario.underline Ingreso Base de Cotización (IBC)
-            p.mb-0 Se considera el monto del salario o ingreso de los trabajadores, tanto dependientes como independientes, que permite determinar los aportes al sistema de seguridad social. Entre estos aportes, se encuentran los de salud, pensión, riesgos laborales y caja de compensación familiar, y deben realizarse con los siguientes porcentajes: 
+            p.mb-0 Se considera el monto del salario o ingreso de los trabajadores, tanto dependientes como independientes, que permite determinar los aportes al sistema de seguridad social. Entre estos aportes, se encuentran los de 
+              em salud, pensión, riesgos laborales y caja de compensación familiar, 
+              | y deben realizarse con los siguientes porcentajes: 
           .col-lg
             .titulo-sexto.color-primario Porcentajes según aportes al Sistema de Seguridad Social
             .row.justify-content-center.tarjetas-overflow(data-aos="flip-right")
@@ -183,11 +185,11 @@
                   .ondas-b.d-none.d-lg-block
                   p Empleado dependiente que gana más de dos Salarios Mínimos Legales Mensuales Vigentes (SMLMV) y percibe comisión por ventas. 
                 p.color-secundario A partir del siguiente supuesto, un trabajador tiene 
-                  b un salario básico de $2.500.000 
+                  b un salario básico de $ 2.500.000 
                   | y gana comisiones por ventas mensualmente (estas pueden variar). En el mes que acaba de terminar, este trabajador ganó por concepto de 
-                  b comisiones un total de $500.000. 
+                  b comisiones un total de $ 500.000. 
                 p.color-secundario Según lo mencionado anteriormente, se tiene que, para realizar el pago de aportes a seguridad social del mes anterior, se debe tomar el valor del salario básico más el valor de la comisión 
-                  b ($2.500.000 + $500.000 = $3.000.000). 
+                  b ($ 2.500.000 + $ 500.000 = $ 3.000.000). 
                   | Por otra parte, es importante resaltar que, para este caso donde el trabajador cobra comisiones por ventas y estas pueden variar, se deberá tener en cuenta cada mes el valor percibido por este concepto. 
 
             p En la siguiente tabla, se puede ver cómo se determinan los valores correspondientes a este trabajador: 
@@ -207,36 +209,36 @@
                 tbody
                   tr
                     td Salud
-                    td $3.000.000 * 4% = 
-                      b $120.000
-                    td $3.000.000 * 8.5% = 
-                      b $255.000
+                    td $ 3.000.000 * 4% = 
+                      b $ 120.000
+                    td $ 3.000.000 * 8.5% = 
+                      b $ 255.000
                     td 12.5% = 
-                      b $375.000
+                      b $ 375.000
                   tr
                     td Pensión
-                    td $3.000.000 * 4% = 
-                      b $120.000
-                    td $3.000.000 * 12% = 
-                      b $360.000
+                    td $ 3.000.000 * 4% = 
+                      b $ 120.000
+                    td $ 3.000.000 * 12% = 
+                      b $ 360.000
                     td 16% = 
-                      b $480.000
+                      b $ 480.000
                   tr
                     td Riesgos Laborales ARL
                     td No aplica
-                    td $3.000.000 * 0.522% = 
-                      b $15.660
+                    td $ 3.000.000 * 0.522% = 
+                      b $ 15.660
                     td 0.522% = 
-                      b $15.660
+                      b $ 15.660
                   tr
                     td 
                       b Totales
                     td 
-                      b $240.0000
+                      b $ 240.0000
                     td 
-                      b $630.660
+                      b $ 630.660
                     td 
-                      b $870.660
+                      b $ 870.660
 
           .p-4.fondo-gris(titulo="Ejemplo 2")
             .row.align-items-end.justify-content-center
@@ -253,11 +255,11 @@
                     b auxilio de transporte 
                     | y se tiene en cuenta en el total devengado del trabajador para temas de pago de nómina, pero no para el aporte de Seguridad Social de Salud. 
                 p.color-secundario Se parte del siguiente supuesto, un trabajador tiene un 
-                  b SMLMV (salario mínimo año 2021) de $908.526 
+                  b SMLMV (salario mínimo año 2021) de $ 908.526 
                   | y en el mes anterior realizó trabajos en 
-                  b horario extra por un valor de $130.000. 
+                  b horario extra por un valor de $ 130.000. 
                   | En este caso, para realizar el pago de aportes a seguridad social del mes anterior, se debe tomar el valor del SMLMV más el valor obtenido por las 
-                  b horas extras ($908.526 + $130.000 = $1.038.526). 
+                  b horas extras ($ 908.526 + $ 130.000 = $ 1.038.526). 
 
             p En la siguiente tabla, se puede ver cómo se determinan los valores correspondientes a este trabajador: 
 
@@ -276,36 +278,36 @@
                 tbody
                   tr
                     td Salud
-                    td $1.038.526 * 4% = 
-                      b $41.541,04
-                    td $1.038.526 * 8.5% = 
-                      b $88.274,71
+                    td $ 1.038.526 * 4% = 
+                      b $ 41.541,04
+                    td $ 1.038.526 * 8.5% = 
+                      b $ 88.274,71
                     td 12.5% = 
-                      b $129.815,75
+                      b $ 129.815,75
                   tr
                     td Pensión
-                    td $1.038.526 * 4% = 
-                      b $41.541,04
-                    td $1.038.526 * 12% = 
-                      b $124.623,12
+                    td $ 1.038.526 * 4% = 
+                      b $ 41.541,04
+                    td $ 1.038.526 * 12% = 
+                      b $ 124.623,12
                     td 16% = 
-                      b $166.164,16
+                      b $ 166.164,16
                   tr
                     td Riesgos Laborales ARL
                     td No aplica
-                    td $1.038.526 * 0.522% = 
-                      b $5.421
+                    td $ 1.038.526 * 0.522% = 
+                      b $ 5.421
                     td 0.522% = 
-                      b $5.421
+                      b $ 5.421
                   tr
                     td 
                       b Totales
                     td 
-                      b $83.082,08
+                      b $ 83.082,08
                     td 
-                      b $218.319
+                      b $ 218.319
                     td 
-                      b $301.401,08
+                      b $ 301.401,08
 
           .p-4.fondo-gris(titulo="Ejemplo 3")
             .row.align-items-end.justify-content-center
@@ -320,9 +322,9 @@
                 .pe
                   .ondas-b.d-none.d-lg-block
                   p.color-secundario Se parte del siguiente supuesto, un empleado (trabajador) tuvo un periodo de incapacidad de origen común el mes pasado (del día 1 al día 30 del mes), y devenga un 
-                    b salario básico de $1.800.000. 
+                    b salario básico de $ 1.800.000. 
                     | Entonces, según lo mencionado anteriormente, para realizar el pago de aportes a seguridad social del mes anterior o mes de incapacidad, se debe tomar el 66,67% del valor del salario devengado 
-                    b ($1.800.000 * 66,67% = $1.200.060).
+                    b ($ 1.800.000 * 66,67% = $ 1.200.060).
 
             p En otras palabras, se puede decir que el empleado o trabajador, durante el periodo de incapacidad, realizará sus aportes sobre el valor del auxilio por incapacidad y no por su salario. 
 
@@ -343,14 +345,14 @@
                 tbody
                   tr
                     td Salud
-                    td $1.200.060 * 4% = $ 48.002,4
-                    td $1.200.060 * 8.5% = $ 102.005,1
+                    td $ 1.200.060 * 4% = $ 48.002,4
+                    td $ 1.200.060 * 8.5% = $ 102.005,1
                     td 12.5% = $ 150.007,5
 
                   tr
                     td Pensión
-                    td $1.200.060 * 4% = $ 48.002,4
-                    td $1.200.060 * 12% = $ 144.007,2
+                    td $ 1.200.060 * 4% = $ 48.002,4
+                    td $ 1.200.060 * 12% = $ 144.007,2
                     td 16% = $ 192.009,6
                   tr
                     td Riesgos Laborales ARL
@@ -361,11 +363,11 @@
                     td 
                       b Totales
                     td 
-                      b $96.004,8
+                      b $ 96.004,8
                     td 
-                      b $246.012,3
+                      b $ 246.012,3
                     td 
-                      b $342.017,1
+                      b $ 342.017,1
 
 
       .px-4.px-lg-5
@@ -422,7 +424,7 @@
                 p.color-secundario Partamos del siguiente supuesto, un trabajador tiene un contrato de prestación de servicios por seis (6) meses, con el objetivo de realizar asesoría en la elaboración de un proyecto productivo por un 
                   b total de $12.000.000. 
                   | Para su liquidación se debe tener en cuenta el valor por mes percibido según el contrato. Como el contrato es por doce millones y el tiempo del contrato es por seis meses, entonces tenemos que el valor por mes, es: 
-                h5.text-center.color-secundario $12.000.000 / 6 meses = $2.000.000 por mes
+                h5.text-center.color-secundario $ 12.000.000 / 6 meses = $ 2.000.000 por mes
 
                 .tarjeta.color-primario--claro.p-3.mb-3
                   .row
@@ -431,9 +433,9 @@
                     .col-lg.position-relative
                       .separador-vertical.d-none.d-lg-block
                       .d-flex.align-items-center.h-100
-                        h5.color-secundario.mb-0 $2.000.000 * 40% = $800.000
+                        h5.color-secundario.mb-0 $ 2.000.000 * 40% = $ 800.000
 
-            p Según lo anterior, este trabajador deberá realizar sus aportes mensuales con un IBC de $800.000 por este contrato. En la siguiente tabla, se puede ver cómo se determinan los valores correspondientes a este trabajador: 
+            p Según lo anterior, este trabajador deberá realizar sus aportes mensuales con un IBC de $ 800.000 por este contrato. En la siguiente tabla, se puede ver cómo se determinan los valores correspondientes a este trabajador: 
 
             .row.justify-content-center
               .col-lg-8
@@ -450,25 +452,25 @@
                     tbody
                       tr
                         td Salud
-                        td(colspan="2") $800.000 * 12,5% = 
-                          b $100.000
+                        td(colspan="2") $ 800.000 * 12,5% = 
+                          b $ 100.000
                       tr
                         td Pensión
-                        td(colspan="2") $800.000 * 16% = 
-                          b $128.000
+                        td(colspan="2") $ 800.000 * 16% = 
+                          b $ 128.000
                       tr
                         td Riesgos Laborales ARL
-                        td(colspan="2") $800.000 * 0.522% = 
-                          b $4.176
+                        td(colspan="2") $ 800.000 * 0.522% = 
+                          b $ 4.176
                       tr
                         td Caja de Compensación Familiar (Es Opcional) 
-                        td(colspan="2") $800.000 * 2% = 
-                          b $16.000
+                        td(colspan="2") $ 800.000 * 2% = 
+                          b $ 16.000
                       tr
                         td 
                           b Totales
                         td(colspan="2") 
-                          b $248.176
+                          b $ 248.176
 
 
           .p-4.fondo-gris(titulo="Ejemplo 2")
@@ -483,13 +485,13 @@
                
                 .pe
                   .puntos.d-none.d-lg-block
-                  p A partir del siguiente supuesto, un trabajador del sector de la construcción recibe un ingreso mensual de $40.000.000 (para mirar la clasificación de actividades, puede consultar el código de actividades CIIU). Para efectos de determinar su IBC, este trabajador descontará de sus ingresos el 67,9%: 
+                  p A partir del siguiente supuesto, un trabajador del sector de la construcción recibe un ingreso mensual de $ 40.000.000 (para mirar la clasificación de actividades, puede consultar el código de actividades CIIU). Para efectos de determinar su IBC, este trabajador descontará de sus ingresos el 67,9%: 
                 
                
-                h5.text-center.color-secundario $40.000.000 * 67,9% = $27.160.000
+                h5.text-center.color-secundario $ 40.000.000 * 67,9% = $ 27.160.000
 
                 p.text-center.color-secundario Al monto de sus ingresos, se le debe restar esto, así: 
-                  b $40.000.000 - $27.160.000 = $12.840.000
+                  b $ 40.000.000 - $ 27.160.000 = $ 12.840.000
 
                 .tarjeta.color-primario--claro.p-3.mb-3
                   .row
@@ -498,9 +500,9 @@
                     .col-lg.position-relative
                       .separador-vertical.d-none.d-lg-block
                       .d-flex.align-items-center.h-100
-                        h5.color-secundario.mb-0 $12.840.000 * 40% = $5.136.000
+                        h5.color-secundario.mb-0 $ 12.840.000 * 40% = $ 5.136.000
 
-            p Según lo anterior, este trabajador deberá realizar sus aportes mensuales con un IBC de $5.136.000. Aquí es importante resaltar que, cuando el IBC del trabajador Dependiente o trabajador Independiente supera los cuatro (4) SMLMV, debe realizar el Aporte al Fondo de Solidaridad Pensional. 
+            p Según lo anterior, este trabajador deberá realizar sus aportes mensuales con un IBC de $ 5.136.000. Aquí es importante resaltar que, cuando el IBC del trabajador Dependiente o trabajador Independiente supera los cuatro (4) SMLMV, debe realizar el Aporte al Fondo de Solidaridad Pensional. 
             p En la siguiente tabla, se puede ver cómo se determinan los valores correspondientes a este trabajador: 
             .row.justify-content-center
               .col-lg-8
@@ -517,29 +519,29 @@
                     tbody
                       tr
                         td Salud
-                        td(colspan="2") $5.136.000 * 12,5% = 
-                          b $642.000
+                        td(colspan="2") $ 5.136.000 * 12,5% = 
+                          b $ 642.000
                       tr
                         td Pensión
-                        td(colspan="2") $5.136.000 * 16% = 
-                          b $821.760
+                        td(colspan="2") $ 5.136.000 * 16% = 
+                          b $ 821.760
                       tr
                         td Riesgos Laborales ARL
-                        td(colspan="2") $5.136.000 * 0.522% = 
-                          b $26.809,92
+                        td(colspan="2") $ 5.136.000 * 0.522% = 
+                          b $ 26.809,92
                       tr
                         td Caja de Compensación Familiar (Es Opcional) 
-                        td(colspan="2") $5.136.000 * 2% = 
-                          b $102.720
+                        td(colspan="2") $ 5.136.000 * 2% = 
+                          b $ 102.720
                       tr
                         td Aporte al fondo de solidaridad pensional
-                        td(colspan="2") $5.136.000 * 1% = 
-                          b $51.360
+                        td(colspan="2") $ 5.136.000 * 1% = 
+                          b $ 51.360
                       tr
                         td 
                           b Totales
                         td(colspan="2") 
-                          b $1.644.649,92
+                          b $ 1.644.649,92
 
 
 

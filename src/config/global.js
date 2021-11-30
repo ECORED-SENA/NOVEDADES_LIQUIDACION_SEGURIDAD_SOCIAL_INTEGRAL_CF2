@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Liquidación de la seguridad social.',
+    componenteFormativo: 'Liquidación de la seguridad social',
     descripcionCurso:
       'Los contenidos propuestos en este componente de formación permiten identificar y conocer el índice base de cotización para la seguridad social, su medio de pago y su sistema de información. ',
     // imagenBannerPrincipal: require('@/assets/curso/fondo.png'),
@@ -174,6 +174,22 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
+      {
+        nombre: 'Anderson Ferney Archila Calixto',
+        cargo: 'Experto temático',
+        centro:
+          'Centro de la Industria de la Empresa y los Servicios CIES Regional Norte de Santander',
+      },
+      {
+        nombre: 'Paola Andrea Quintero Aguilar',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Centro de Gestión Industrial Regional Distrito Capital',
+      },
+      {
+        nombre: 'Darío González',
+        cargo: 'Corrección de estilo',
+        centro: 'Centro Agropecuario La Granja Regional Tolima',
+      },
     ],
     desarrolloProducto: [
       {
@@ -188,25 +204,84 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Blanca Flor Tinoco Torres',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Wilson Andrés Arenales Caceres',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Gilberto Junior Rodriguez Rodriguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Camilo Andrés Bolaño Rey',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Lady Adriana Ariza Luque',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Ángela María Maldonado Jaime',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Oleg Litvin',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Nelson Iván Vera Briceño ',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Ludwyng Corzo García ',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Blanca Flor Tinoco Torres ',
+        cargo: 'Diseño web',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Andres Mauricio Santaella',
+        cargo: 'Soporte front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Andres Mauricio Santaella',
+        cargo: 'Desarrollo front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Yuli Marcela Gómez Tarazona ',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

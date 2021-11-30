@@ -180,7 +180,7 @@
         .ondas-b.d-none.d-lg-block
         .pe__content
           .h5.color-primario.underline Registro Único de Afiliados – RUAF
-          p Es un sistema de información que consolida las afiliaciones que reportan las entidades y administradoras del Sistema de Protección Social, de acuerdo con lo establecido en la norma vigent
+          p Es un sistema de información que consolida las afiliaciones que reportan las entidades y administradoras del Sistema de Protección Social, de acuerdo con lo establecido en la norma vigente.
 
         
     .fondo-olas
@@ -275,6 +275,8 @@
               img(src='@/assets/curso/t3-17.png')
     .fondo-secundario
       .py-4.py-lg-5.px-2
+        .text-center.mb-4
+          h5.mb-0.text-white Tipos de Planillas 
 
         SlyderF.slyder-f--b(columnas="col-md-6 col-xl-4")
           .tarjeta.color-secundario--claro.h-100.px-4.pb-4.pt-5
