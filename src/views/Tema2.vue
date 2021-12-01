@@ -191,21 +191,32 @@
           .ondas-b.d-none.d-lg-block
           .pe__content
             .h5.color-primario.underline Liquidación de nómina
-            p A continuación, se verán algunos ejemplos prácticos sobre cómo liquidar la nómina para trabajadores dependientes: 
+            p A continuación, se verán algunos ejemplos prácticos sobre cómo liquidar la nómina para trabajadores dependientes:
+
+        h4 Ejemplo 1 -
         
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/AFWFsxeNeyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)           
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/AFWFsxeNeyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
+
+        h4 Ejemplo 2 -
+
+        figure.mb-5
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/WzJSdQe2_b0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
+
 
         .pe.mb-4
           .ondas-b.d-none.d-lg-block
           .pe__content
             .h5.color-primario.underline Liquidación de prestaciones sociales
-            p A continuación, para este ejercicio, se tendrá en cuenta el Ejemplo 1 de liquidación de nómina. Estos son los conceptos que hacen parte de las prestaciones sociales: 
+            p A continuación, para este ejercicio, se tendrá en cuenta el Ejemplo 1 de liquidación de nómina. Estos son los conceptos que hacen parte de las prestaciones sociales:          
 
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/WzJSdQe2_b0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)          
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/hARR4V6VNLs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)       
+
+           
 
         .pe.mb-4
           .ondas-b.d-none.d-lg-block
