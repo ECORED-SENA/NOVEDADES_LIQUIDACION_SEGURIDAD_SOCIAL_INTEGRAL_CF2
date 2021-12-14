@@ -58,7 +58,7 @@
                       .col-6
                         figure
                           img(src='@/assets/curso/t3-04.svg')
-                    p.text-center.mb-0.text-small Ofrecer insumos para la referenciación por calidad, que permitan materializar los incentivos de prestigio del Sistema.
+                    p.text-center.mb-0.text-small Ofrecer insumos para la referenciación por calidad, que permitan materializar los incentivos de prestigio del sistema.
                   .row.justify-content-center.mt-2
                     .col-3
                       img.invert-img(src='@/assets/curso/olas-b.svg')
@@ -82,7 +82,7 @@
               p.mb-0 Este sistema integrado está estructurado por centrales de información que buscan, a través de un servicio digital, atender las necesidades de información de los ciudadanos y grupos de interés.  
       
     .px-4.px-lg-5
-      p En el siguientes slider, se pueden ver las centrales de información, según su clasificación, entidades y sistemas de información: 
+      p En los siguientes slider, se pueden ver las centrales de información, según su clasificación, entidades y sistemas de información: 
 
     .px-4.px-lg-5.pt-4.pt-lg-5.pb-3.mb-5.fondo-gris
       SlyderE(indicadores="centro")
@@ -254,11 +254,11 @@
                 | El monto por concepto de aportes debe determinarse sobre el IBC del trabajador. 
               li
                 i.fas.fa-check
-                | Reportar las novedades en la Pila según variaciones en el IBC y de esta forma evitar sanciones. 
+                | Reportar las novedades en la PILA según variaciones en el IBC y de esta forma evitar sanciones. 
               li.mb-0
                 i.fas.fa-check
                 div 
-                  p Las novedades que se pueden reportar en la Pila son de tipo: 
+                  p Las novedades que se pueden reportar en la PILA son de tipo: 
                   ul.lista-ul--color.mb-0.ps-0
                     li
                       i.fas.fa-check
@@ -413,7 +413,7 @@
                 img(src='@/assets/curso/t3-35.svg')
             h6.color-primario.text-center Planilla Tipo L (pago reliquidación)
             p.mb-0.text-center Es utilizada para el pago de mayores aportes al Sistema General de Seguridad Social Integral, resultante de la reliquidación de la mesada pensional. Solo se reportará el valor del ajuste.
-      p.mb-0 En relación con lo mencionado anteriormente y con el objetivo de ampliar los conocimientos acerca del tema, puede consultar la normatividad respecto a la Pila en los siguientes artículos: Artículo 33 de la Ley 1438 de 2011, define la capacidad de pago, y Artículo 135 de la Ley 1753 de 2015, define el ingreso base de cotización de los independientes. 
+      p.mb-0 En relación con lo mencionado anteriormente y con el objetivo de ampliar los conocimientos acerca del tema, puede consultar la normatividad respecto a la PILA en los siguientes artículos: Artículo 33 de la Ley 1438 de 2011, define la capacidad de pago, y Artículo 135 de la Ley 1753 de 2015, define el ingreso base de cotización de los independientes. 
 
 </template>
 

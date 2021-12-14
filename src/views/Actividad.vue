@@ -11,10 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Ejercicio práctico de liquidación de nómina
-        p.mb-4 El objetivo de esta actividad es ayudarle a repasar los conocimientos adquiridos en este componente formativo, identificar algunas deducciones y aportes devengados por el trabajador. 
-          br
-          br
-          | Se sugiere que antes de realizar esta actividad, haga la consulta y el estudio de los materiales formativos.
+        p.mb-4 El objetivo de esta actividad es ayudarle a repasar los conocimientos adquiridos en este componente formativo, identificar algunas deducciones y aportes devengados por el trabajador.           
 
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            
@@ -34,10 +31,7 @@
         .titulo-segundo
           h2 Repasando conceptos claves para la liquidación de Seguridad Social
 
-        p.mb-4 El objetivo de esta actividad es ayudarle a repasar los conocimientos adquiridos en este componente formativo, mediante la organización de palabras que permitan estructurar los conceptos vistos en este componente. Conceptos que se deben conocer al momento de liquidar ante el sistema de seguridad social integral. 
-          br
-          br
-          | Se sugiere que antes de realizar esta actividad, haga la consulta y el estudio de los materiales formativos.
+        p.mb-4 El objetivo de esta actividad es ayudarle a repasar los conocimientos adquiridos en este componente formativo, mediante la organización de palabras que permitan estructurar los conceptos vistos en este componente. Conceptos que se deben conocer al momento de liquidar ante el Sistema de Seguridad Social Integral.          
 
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            

@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Liquidación de la seguridad social',
     descripcionCurso:
-      'Los contenidos propuestos en este componente de formación permiten identificar y conocer el índice base de cotización para la seguridad social, su medio de pago y su sistema de información. ',
+      'Los contenidos propuestos en este componente formativo permiten identificar y conocer el índice base de cotización para la seguridad social, su medio de pago y su sistema de información. ',
     // imagenBannerPrincipal: require('@/assets/curso/fondo.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo.png'),
   },
@@ -288,6 +288,16 @@ export default {
       },
     ],
     gestoresRepositorio: [
+      {
+        nombre: 'Álvaro Andrés Angarita Ramirez',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: 'Daniel Felipe Varón Molina',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',

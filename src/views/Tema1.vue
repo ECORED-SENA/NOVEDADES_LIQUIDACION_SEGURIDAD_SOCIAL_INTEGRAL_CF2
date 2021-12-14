@@ -53,7 +53,7 @@
           iframe(width="560" height="315" src="https://www.youtube.com/embed/f4N9drI26o0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
           
 
-      p.mb-4 A continuación, vamos a ver la estructura de cotización para el sistema de General de Seguridad Social en Salud: 
+      p.mb-4 A continuación, vamos a ver la estructura de cotización para el Sistema General de Seguridad Social en Salud: 
 
       .row.justify-content-center.mb-5
         .col-lg-10
@@ -77,7 +77,7 @@
         .row.justify-content-center
           .col-lg-6.mb-4.mb-lg-0
             .h5.color-primario.underline Ingreso Base de Cotización (IBC)
-            p.mb-0 Se considera el monto del salario o ingreso de los trabajadores, tanto dependientes como independientes, que permite determinar los aportes al sistema de seguridad social. Entre estos aportes, se encuentran los de 
+            p.mb-0 Se considera el monto del salario o ingreso de los trabajadores, tanto dependientes como independientes, que permite determinar los aportes al Sistema de Seguridad Social. Entre estos aportes, se encuentran los de 
               em salud, pensión, riesgos laborales y caja de compensación familiar, 
               | y deben realizarse con los siguientes porcentajes: 
           .col-lg

@@ -12,7 +12,7 @@
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-6.col-xl.mb-4.mb-xl-0
           .cajon.color-acento-contenido.p-4
-            p.mb-0 Como se evidenció en el primer apartado de este componente formativo, en el régimen contributivo se encuentran los trabajadores dependientes y los trabajadores independientes. Aquí, en este apartado referente al medio de pago que deben utilizar tanto los empleadores, que son los encargados de hacer los aportes al sistema general de seguridad social, y los trabajadores independientes, que son los encargados directamente de realizar los pagos, en los dos casos deben realizar los pagos de los aportes mediante la planilla integrada de liquidación de aportes –Pila.  
+            p.mb-0 Como se evidenció en el primer apartado de este componente formativo, en el régimen contributivo se encuentran los trabajadores dependientes y los trabajadores independientes. Aquí, en este apartado referente al medio de pago que deben utilizar tanto los empleadores, que son los encargados de hacer los aportes al Sistema General de Seguridad Social, y los trabajadores independientes, que son los encargados directamente de realizar los pagos, en los dos casos deben realizar los pagos de los aportes mediante la Planilla Integrada de Liquidación de Aportes –PILA.  
 
         .col-8.col-lg-6.col-xl.mb-4.mb-xl-0
           figure
@@ -23,7 +23,7 @@
             .col-2
               figure
                 img(src='@/assets/curso/ondas.svg')
-          p.mb-0 Antes de entrar en más detalle sobre los sistemas de información y tipos de Pila, se verá la forma de calcular y liquidar la nómina según las novedades de la norma vigente. Entre estas, se encuentra que, a partir de septiembre del 2018, el pago de aportes al Sistema de Seguridad Social Integral y Parafiscales debe efectuarse de manera vencida. Esto quiere decir que el aporte del mes de octubre se debe pagar en el mes de noviembre. Esto se realizará en los plazos establecidos de acuerdo con los últimos dos dígitos del documento de identidad.  
+          p.mb-0 Antes de entrar en más detalle sobre los sistemas de información y tipos de PILA, se verá la forma de calcular y liquidar la nómina según las novedades de la norma vigente. Entre estas, se encuentra que, a partir de septiembre del 2018, el pago de aportes al Sistema de Seguridad Social Integral y Parafiscales debe efectuarse de manera vencida. Esto quiere decir que el aporte del mes de octubre se debe pagar en el mes de noviembre. Esto se realizará en los plazos establecidos de acuerdo con los últimos dos dígitos del documento de identidad.  
 
       .bloque-texto-a.color-secundario.p-4.mb-5
         .row.m-0.align-items-center.justify-content-around
@@ -197,7 +197,7 @@
         
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/AFWFsxeNeyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/AYvf1eq5RR8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)             
 
         h4 Ejemplo 2 -
 
